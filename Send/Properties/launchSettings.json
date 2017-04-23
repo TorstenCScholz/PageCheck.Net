@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Send": {
+      "commandName": "Project",
+      "commandLineArgs": "www.test.de test"
+    }
+  }
+}
